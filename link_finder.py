@@ -1,5 +1,10 @@
 from html.parser import HTMLParser
 from urllib import parse
+import pandas as pd
+import requests
+import re
+import json
+
 
 class LinkFinder(HTMLParser):
     def __init__(self, base_url, page_url):
@@ -7,6 +12,7 @@ class LinkFinder(HTMLParser):
         self.base_url =base_url
         self.page_url = page_url
         self.links = set()
+        self.key_val = {}
 
     def error(self, message):
         pass
@@ -17,6 +23,8 @@ class LinkFinder(HTMLParser):
                 if(attr == 'href'):
                     url = parse.urljoin(self.base_url, val)
                     self.links.add(url)
+
+
     def page_links(self):
         return self.links
 

@@ -1,6 +1,7 @@
 from urllib.request import urlopen, Request
 from web_crawler.link_finder import LinkFinder
 from web_crawler.general import *
+from web_crawler.pymongo_integration import *
 
 class Spider:
     #class variable shared across instances
@@ -19,6 +20,7 @@ class Spider:
         Spider.crawled_file = Spider.project_name+'/crawled.txt'
         Spider.boot()
         Spider.crawl_page('First spider', Spider.base_url)
+        clear_data()
 
     @staticmethod
     def boot():
@@ -26,6 +28,7 @@ class Spider:
         create_data_file(Spider.project_name, Spider.base_url)
         Spider.queue = file_to_set(Spider.queue_file)
         Spider.crawled = file_to_set(Spider.crawled_file)
+
     @staticmethod
     def crawl_page(thread_name, page_url):
         if page_url not in Spider.crawled:

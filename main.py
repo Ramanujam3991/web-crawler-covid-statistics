@@ -3,6 +3,7 @@ from queue import Queue
 from web_crawler.spider import Spider
 from web_crawler.domain import *
 from web_crawler.general import *
+from web_crawler.extract_data import *
 
 PROJECT_NAME = 'covid'
 HOME_PAGE = 'https://www.worldometers.info/coronavirus/'
@@ -17,7 +18,7 @@ Spider(PROJECT_NAME,HOME_PAGE,DOMAIN_NAME)
 #create workers
 def create_workers():
     for rng in range(NUMBER_OF_THREADS):
-        t = threading.thread(target= work)
+        t = threading.Thread(target= work)
         t.daemon = True
         t.start()
 
@@ -38,9 +39,14 @@ def create_jobs():
 #check items in queue
 def crawl():
     queue_links = file_to_set(QUEUE_FILE)
+    #print(f'queue_links:::',queue_links)
     if len(queue_links) > 0:
+        for link in queue_links:
+            crawl_data_from_link(link)
+        print('queue_links',queue_links)
         print(f'{len(queue_links)} in the queue')
         create_jobs()
+
 
 create_workers()
 crawl()
