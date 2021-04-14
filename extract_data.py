@@ -4,7 +4,8 @@ import pandas as pd
 import requests
 import re
 import json
-from web_crawler.pymongo_integration import *
+from pymongo_integration import *
+
 
 
 def crawl_data_from_link(url):

@@ -1,7 +1,7 @@
 from urllib.request import urlopen, Request
-from web_crawler.link_finder import LinkFinder
-from web_crawler.general import *
-from web_crawler.pymongo_integration import *
+from link_finder import LinkFinder
+from general import *
+from pymongo_integration import *
 
 class Spider:
     #class variable shared across instances

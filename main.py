@@ -1,9 +1,9 @@
 import threading
 from queue import Queue
-from web_crawler.spider import Spider
-from web_crawler.domain import *
-from web_crawler.general import *
-from web_crawler.extract_data import *
+from spider import Spider
+from domain import *
+from general import *
+from extract_data import *
 
 PROJECT_NAME = 'covid'
 HOME_PAGE = 'https://www.worldometers.info/coronavirus/'
