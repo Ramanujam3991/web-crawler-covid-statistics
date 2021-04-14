@@ -1,0 +1,1 @@
+web: gunicorn web_crawler.wsgi:application --log-file -
