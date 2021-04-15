@@ -13,5 +13,14 @@ def clear_data():
     collection.delete_many({})
     print('Cleared data....')
 
-def insertIntoDb(dictarr):
-    collection.insert_many(dictarr)
+
+
+def insertIntoDb(dictarr, table_name=''):
+    global collection
+    print('table_name>>>',table_name)
+    if table_name=='':
+        collection.insert_many(dictarr)
+    else:
+        print('table_name::',table_name)
+        collection = database[COLLECTION_NAME+'_'+table_name]
+        collection.insert_many(dictarr)

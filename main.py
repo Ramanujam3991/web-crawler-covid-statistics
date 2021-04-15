@@ -1,12 +1,12 @@
 import threading
 from queue import Queue
-from spider import Spider
+from spider import *
 from domain import *
 from general import *
 from extract_data import *
 
 PROJECT_NAME = 'covid'
-HOME_PAGE = 'https://www.worldometers.info/coronavirus/'
+HOME_PAGE = 'https://www.worldometers.info/coronavirus/#countries'
 DOMAIN_NAME = get_domain_name(HOME_PAGE)
 QUEUE_FILE = PROJECT_NAME + '/queue.txt'
 CRAWLED_FILE = PROJECT_NAME + '/crawled.txt'
@@ -41,8 +41,6 @@ def crawl():
     queue_links = file_to_set(QUEUE_FILE)
     #print(f'queue_links:::',queue_links)
     if len(queue_links) > 0:
-        for link in queue_links:
-            crawl_data_from_link(link)
         print('queue_links',queue_links)
         print(f'{len(queue_links)} in the queue')
         create_jobs()

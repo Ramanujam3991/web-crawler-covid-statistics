@@ -41,6 +41,13 @@ def create_data_file(project_name, base_url):
     if not os.path.isfile(crawled):
         write_file(crawled, '')
 
+def delete_files(project_name):
+    queue = project_name + '/queue.txt'
+    crawled = project_name + '/crawled.txt'
+    if os.path.isfile(queue):
+        os.remove(queue)
+    if os.path.isfile(crawled):
+        os.remove(crawled)
 #create_data_file('test_directory', 'https://www.worldometers.info/coronavirus/')
 
 #create_project_directory('test_directory')

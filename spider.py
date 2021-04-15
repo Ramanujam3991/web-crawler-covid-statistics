@@ -1,7 +1,8 @@
 from urllib.request import urlopen, Request
-from link_finder import LinkFinder
+from link_finder import *
 from general import *
 from pymongo_integration import *
+from extract_data import *
 
 class Spider:
     #class variable shared across instances
@@ -16,15 +17,17 @@ class Spider:
         Spider.project_name = project_name
         Spider.base_url = base_url
         Spider.domain_name = domain_name
+        clear_data()
         Spider.queue_file = Spider.project_name+'/queue.txt'
         Spider.crawled_file = Spider.project_name+'/crawled.txt'
         Spider.boot()
         Spider.crawl_page('First spider', Spider.base_url)
-        clear_data()
+
 
     @staticmethod
     def boot():
         create_project_directory(Spider.project_name)
+        delete_files(Spider.project_name)
         create_data_file(Spider.project_name, Spider.base_url)
         Spider.queue = file_to_set(Spider.queue_file)
         Spider.crawled = file_to_set(Spider.crawled_file)
@@ -35,6 +38,8 @@ class Spider:
             print(f'{thread_name} is crawling {page_url}')
             print(f'Queue: {len(Spider.queue)} Crawled: {len(Spider.crawled)}')
             Spider.add_links_to_queue(Spider.gather_link(page_url))
+            print('Extracting data from:', page_url)
+            crawl_data_from_link(page_url)
             Spider.queue.remove(page_url)
             Spider.crawled.add(page_url)
             Spider.update_files()
