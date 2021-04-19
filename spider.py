@@ -39,7 +39,10 @@ class Spider:
             print(f'Queue: {len(Spider.queue)} Crawled: {len(Spider.crawled)}')
             Spider.add_links_to_queue(Spider.gather_link(page_url))
             print('Extracting data from:', page_url)
-            crawl_data_from_link(page_url)
+            try:
+                crawl_data_from_link(page_url)
+            finally:
+                forecast_logic()
             Spider.queue.remove(page_url)
             Spider.crawled.add(page_url)
             Spider.update_files()

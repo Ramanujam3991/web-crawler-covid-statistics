@@ -5,6 +5,7 @@ import requests
 import re
 import json
 from pymongo_integration import *
+import numpy as np
 
 
 
@@ -30,9 +31,10 @@ def crawl_data_from_link(url):
     except:
         print('no tables in this page',url)
         return
-    print(dataframe)
+    #print(dataframe)
+    #forecast_logic()
     dictArr=list(dataframe[0].T.to_dict().values())
-    print(':::',dictArr)
+    print(':::::',dictArr)
     #insert the data
     if '#countries' in url:
         # insert the main data
@@ -43,6 +45,8 @@ def crawl_data_from_link(url):
         table_name = url[url.find('country/')+8:len(url)-1]
         print('table_name**',table_name)
         insertIntoDb(dictArr, table_name)
+
+
 
     #file.close()
 
