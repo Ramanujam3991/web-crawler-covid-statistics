@@ -43,6 +43,7 @@ class Spider:
                 crawl_data_from_link(page_url)
             finally:
                 forecast_logic()
+                #pass
             Spider.queue.remove(page_url)
             Spider.crawled.add(page_url)
             Spider.update_files()

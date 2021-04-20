@@ -1,0 +1,1611 @@
+root -INFO - This is Pymongo integration
+root -INFO - Mean::3835.0
+root -INFO - newCasesMedian::3835.0
+root -INFO - newCasesMode::ModeResult(mode=array([3835]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3835.0
+root -INFO - newDeathsTomorrow::168.0
+root -INFO - newRecoveredTomorrow::3717.0
+root -INFO - Mean::181530.0
+root -INFO - newCasesMedian::181530.0
+root -INFO - newCasesMode::ModeResult(mode=array([181530]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::181530.0
+root -INFO - newDeathsTomorrow::1612.0
+root -INFO - newRecoveredTomorrow::115540.0
+root -INFO - Mean::1332.0
+root -INFO - newCasesMedian::1332.0
+root -INFO - newCasesMode::ModeResult(mode=array([1332]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1332.0
+root -INFO - newDeathsTomorrow::19.0
+root -INFO - newRecoveredTomorrow::1032.0
+root -INFO - Mean::65290.0
+root -INFO - newCasesMedian::65290.0
+root -INFO - newCasesMode::ModeResult(mode=array([65290]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::65290.0
+root -INFO - newDeathsTomorrow::2302.0
+root -INFO - newRecoveredTomorrow::88921.0
+root -INFO - Mean::1069.0
+root -INFO - newCasesMedian::1069.0
+root -INFO - newCasesMode::ModeResult(mode=array([1069]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1069.0
+root -INFO - newDeathsTomorrow::27.0
+root -INFO - newRecoveredTomorrow::1078.0
+root -INFO - Mean::5.0
+root -INFO - newCasesMedian::5.0
+root -INFO - newCasesMode::ModeResult(mode=array([5]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::5.0
+root -INFO - newDeathsTomorrow::27.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::5.0
+root -INFO - newCasesMedian::5.0
+root -INFO - newCasesMode::ModeResult(mode=array([5]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::5.0
+root -INFO - newDeathsTomorrow::27.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::253061.0
+root -INFO - newCasesMedian::253061.0
+root -INFO - newCasesMode::ModeResult(mode=array([253061]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::253061.0
+root -INFO - newDeathsTomorrow::4128.0
+root -INFO - newRecoveredTomorrow::210305.0
+root -INFO - Mean::1785.0
+root -INFO - newCasesMedian::1785.0
+root -INFO - newCasesMode::ModeResult(mode=array([1785]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1785.0
+root -INFO - newDeathsTomorrow::31.0
+root -INFO - newRecoveredTomorrow::65.0
+root -INFO - Mean::100172.0
+root -INFO - newCasesMedian::100172.0
+root -INFO - newCasesMode::ModeResult(mode=array([100172]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::100172.0
+root -INFO - newDeathsTomorrow::430.0
+root -INFO - newRecoveredTomorrow::37660.0
+root -INFO - Mean::100172.0
+root -INFO - newCasesMedian::100172.0
+root -INFO - newCasesMode::ModeResult(mode=array([100172]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::100172.0
+root -INFO - newDeathsTomorrow::430.0
+root -INFO - newRecoveredTomorrow::37660.0
+root -INFO - Mean::100172.0
+root -INFO - newCasesMedian::100172.0
+root -INFO - newCasesMode::ModeResult(mode=array([100172]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::100172.0
+root -INFO - newDeathsTomorrow::430.0
+root -INFO - newRecoveredTomorrow::37660.0
+root -INFO - Mean::8164.0
+root -INFO - newCasesMedian::8164.0
+root -INFO - newCasesMode::ModeResult(mode=array([8164]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8164.0
+root -INFO - newDeathsTomorrow::379.0
+root -INFO - newRecoveredTomorrow::9631.0
+root -INFO - Mean::8164.0
+root -INFO - newCasesMedian::8164.0
+root -INFO - newCasesMode::ModeResult(mode=array([8164]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8164.0
+root -INFO - newDeathsTomorrow::379.0
+root -INFO - newRecoveredTomorrow::9631.0
+root -INFO - Mean::8164.0
+root -INFO - newCasesMedian::8164.0
+root -INFO - newCasesMode::ModeResult(mode=array([8164]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8164.0
+root -INFO - newDeathsTomorrow::379.0
+root -INFO - newRecoveredTomorrow::9631.0
+root -INFO - Mean::8164.0
+root -INFO - newCasesMedian::8164.0
+root -INFO - newCasesMode::ModeResult(mode=array([8164]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8164.0
+root -INFO - newDeathsTomorrow::379.0
+root -INFO - newRecoveredTomorrow::9631.0
+root -INFO - Mean::8164.0
+root -INFO - newCasesMedian::8164.0
+root -INFO - newCasesMode::ModeResult(mode=array([8164]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8164.0
+root -INFO - newDeathsTomorrow::379.0
+root -INFO - newRecoveredTomorrow::9631.0
+root -INFO - Mean::7077.0
+root -INFO - newCasesMedian::7077.0
+root -INFO - newCasesMode::ModeResult(mode=array([7077]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::7077.0
+root -INFO - newDeathsTomorrow::172.0
+root -INFO - newRecoveredTomorrow::16400.0
+root -INFO - Mean::7077.0
+root -INFO - newCasesMedian::7077.0
+root -INFO - newCasesMode::ModeResult(mode=array([7077]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::7077.0
+root -INFO - newDeathsTomorrow::172.0
+root -INFO - newRecoveredTomorrow::16400.0
+root -INFO - Mean::9246.0
+root -INFO - newCasesMedian::9246.0
+root -INFO - newCasesMode::ModeResult(mode=array([9246]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::9246.0
+root -INFO - newDeathsTomorrow::601.0
+root -INFO - newRecoveredTomorrow::19674.0
+root -INFO - Mean::9246.0
+root -INFO - newCasesMedian::9246.0
+root -INFO - newCasesMode::ModeResult(mode=array([9246]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::9246.0
+root -INFO - newDeathsTomorrow::601.0
+root -INFO - newRecoveredTomorrow::19674.0
+root -INFO - Mean::1308.0
+root -INFO - newCasesMedian::1308.0
+root -INFO - newCasesMode::ModeResult(mode=array([1308]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1308.0
+root -INFO - newDeathsTomorrow::127.0
+root -INFO - newRecoveredTomorrow::3652.0
+root -INFO - Mean::25492.0
+root -INFO - newCasesMedian::25492.0
+root -INFO - newCasesMode::ModeResult(mode=array([25492]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::25492.0
+root -INFO - newDeathsTomorrow::395.0
+root -INFO - newRecoveredTomorrow::13212.0
+root -INFO - Mean::8940.0
+root -INFO - newCasesMedian::8940.0
+root -INFO - newCasesMode::ModeResult(mode=array([8940]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8940.0
+root -INFO - newDeathsTomorrow::367.0
+root -INFO - newRecoveredTomorrow::12075.0
+root -INFO - Mean::8940.0
+root -INFO - newCasesMedian::8940.0
+root -INFO - newCasesMode::ModeResult(mode=array([8940]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8940.0
+root -INFO - newDeathsTomorrow::367.0
+root -INFO - newRecoveredTomorrow::12075.0
+root -INFO - Mean::5549.0
+root -INFO - newCasesMedian::5549.0
+root -INFO - newCasesMode::ModeResult(mode=array([5549]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::5549.0
+root -INFO - newDeathsTomorrow::210.0
+root -INFO - newRecoveredTomorrow::6728.0
+root -INFO - Mean::3301.0
+root -INFO - newCasesMedian::3301.0
+root -INFO - newCasesMode::ModeResult(mode=array([3301]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3301.0
+root -INFO - newDeathsTomorrow::36.0
+root -INFO - newRecoveredTomorrow::153.0
+root -INFO - Mean::3301.0
+root -INFO - newCasesMedian::3301.0
+root -INFO - newCasesMode::ModeResult(mode=array([3301]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3301.0
+root -INFO - newDeathsTomorrow::36.0
+root -INFO - newRecoveredTomorrow::153.0
+root -INFO - Mean::6822.0
+root -INFO - newCasesMedian::6822.0
+root -INFO - newCasesMode::ModeResult(mode=array([6822]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::6822.0
+root -INFO - newDeathsTomorrow::27.0
+root -INFO - newRecoveredTomorrow::6943.0
+root -INFO - Mean::6822.0
+root -INFO - newCasesMedian::6822.0
+root -INFO - newCasesMode::ModeResult(mode=array([6822]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::6822.0
+root -INFO - newDeathsTomorrow::27.0
+root -INFO - newRecoveredTomorrow::6943.0
+root -INFO - Mean::6822.0
+root -INFO - newCasesMedian::6822.0
+root -INFO - newCasesMode::ModeResult(mode=array([6822]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::6822.0
+root -INFO - newDeathsTomorrow::27.0
+root -INFO - newRecoveredTomorrow::6943.0
+root -INFO - Mean::2931.0
+root -INFO - newCasesMedian::2931.0
+root -INFO - newCasesMode::ModeResult(mode=array([2931]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2931.0
+root -INFO - newDeathsTomorrow::237.0
+root -INFO - newRecoveredTomorrow::5468.0
+root -INFO - Mean::8208.0
+root -INFO - newCasesMedian::8208.0
+root -INFO - newCasesMode::ModeResult(mode=array([8208]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8208.0
+root -INFO - newDeathsTomorrow::34.0
+root -INFO - newRecoveredTomorrow::6888.0
+root -INFO - Mean::7379.0
+root -INFO - newCasesMedian::7379.0
+root -INFO - newCasesMode::ModeResult(mode=array([7379]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::7379.0
+root -INFO - newDeathsTomorrow::93.0
+root -INFO - newRecoveredTomorrow::21664.0
+root -INFO - Mean::1630.0
+root -INFO - newCasesMedian::1630.0
+root -INFO - newCasesMode::ModeResult(mode=array([1630]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1630.0
+root -INFO - newDeathsTomorrow::35.0
+root -INFO - newRecoveredTomorrow::21664.0
+root -INFO - Mean::1630.0
+root -INFO - newCasesMedian::1630.0
+root -INFO - newCasesMode::ModeResult(mode=array([1630]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1630.0
+root -INFO - newDeathsTomorrow::35.0
+root -INFO - newRecoveredTomorrow::21664.0
+root -INFO - Mean::91.0
+root -INFO - newCasesMedian::91.0
+root -INFO - newCasesMode::ModeResult(mode=array([91]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::91.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::75.0
+root -INFO - Mean::424.0
+root -INFO - newCasesMedian::424.0
+root -INFO - newCasesMode::ModeResult(mode=array([424]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::424.0
+root -INFO - newDeathsTomorrow::5.0
+root -INFO - newRecoveredTomorrow::902.0
+root -INFO - Mean::5445.0
+root -INFO - newCasesMedian::5445.0
+root -INFO - newCasesMode::ModeResult(mode=array([5445]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::5445.0
+root -INFO - newDeathsTomorrow::137.0
+root -INFO - newRecoveredTomorrow::4286.0
+root -INFO - Mean::1645.0
+root -INFO - newCasesMedian::1645.0
+root -INFO - newCasesMode::ModeResult(mode=array([1645]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1645.0
+root -INFO - newDeathsTomorrow::199.0
+root -INFO - newRecoveredTomorrow::2969.0
+root -INFO - Mean::4559.0
+root -INFO - newCasesMedian::4559.0
+root -INFO - newCasesMode::ModeResult(mode=array([4559]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::4559.0
+root -INFO - newDeathsTomorrow::91.0
+root -INFO - newRecoveredTomorrow::6811.0
+root -INFO - Mean::4559.0
+root -INFO - newCasesMedian::4559.0
+root -INFO - newCasesMode::ModeResult(mode=array([4559]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::4559.0
+root -INFO - newDeathsTomorrow::91.0
+root -INFO - newRecoveredTomorrow::6811.0
+root -INFO - Mean::2965.0
+root -INFO - newCasesMedian::2965.0
+root -INFO - newCasesMode::ModeResult(mode=array([2965]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2965.0
+root -INFO - newDeathsTomorrow::32.0
+root -INFO - newRecoveredTomorrow::4775.0
+root -INFO - Mean::2141.0
+root -INFO - newCasesMedian::2141.0
+root -INFO - newCasesMode::ModeResult(mode=array([2141]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2141.0
+root -INFO - newDeathsTomorrow::10.0
+root -INFO - newRecoveredTomorrow::4775.0
+root -INFO - Mean::2026.0
+root -INFO - newCasesMedian::2026.0
+root -INFO - newCasesMode::ModeResult(mode=array([2026]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2026.0
+root -INFO - newDeathsTomorrow::37.0
+root -INFO - newRecoveredTomorrow::3025.0
+root -INFO - Mean::2908.0
+root -INFO - newCasesMedian::2908.0
+root -INFO - newCasesMode::ModeResult(mode=array([2908]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2908.0
+root -INFO - newDeathsTomorrow::30.0
+root -INFO - newRecoveredTomorrow::3024.0
+root -INFO - Mean::2908.0
+root -INFO - newCasesMedian::2908.0
+root -INFO - newCasesMode::ModeResult(mode=array([2908]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2908.0
+root -INFO - newDeathsTomorrow::30.0
+root -INFO - newRecoveredTomorrow::3024.0
+root -INFO - Mean::2908.0
+root -INFO - newCasesMedian::2908.0
+root -INFO - newCasesMode::ModeResult(mode=array([2908]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2908.0
+root -INFO - newDeathsTomorrow::30.0
+root -INFO - newRecoveredTomorrow::3024.0
+root -INFO - Mean::1903.0
+root -INFO - newCasesMedian::1903.0
+root -INFO - newCasesMode::ModeResult(mode=array([1903]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1903.0
+root -INFO - newDeathsTomorrow::3.0
+root -INFO - newRecoveredTomorrow::1854.0
+root -INFO - Mean::1070.0
+root -INFO - newCasesMedian::1070.0
+root -INFO - newCasesMode::ModeResult(mode=array([1070]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1070.0
+root -INFO - newDeathsTomorrow::12.0
+root -INFO - newRecoveredTomorrow::940.0
+root -INFO - Mean::1070.0
+root -INFO - newCasesMedian::1070.0
+root -INFO - newCasesMode::ModeResult(mode=array([1070]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1070.0
+root -INFO - newDeathsTomorrow::12.0
+root -INFO - newRecoveredTomorrow::940.0
+root -INFO - Mean::2341.0
+root -INFO - newCasesMedian::2341.0
+root -INFO - newCasesMode::ModeResult(mode=array([2341]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2341.0
+root -INFO - newDeathsTomorrow::3.0
+root -INFO - newRecoveredTomorrow::1592.0
+root -INFO - Mean::642.0
+root -INFO - newCasesMedian::642.0
+root -INFO - newCasesMode::ModeResult(mode=array([642]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::642.0
+root -INFO - newDeathsTomorrow::72.0
+root -INFO - newRecoveredTomorrow::1592.0
+root -INFO - Mean::642.0
+root -INFO - newCasesMedian::642.0
+root -INFO - newCasesMode::ModeResult(mode=array([642]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::642.0
+root -INFO - newDeathsTomorrow::72.0
+root -INFO - newRecoveredTomorrow::1592.0
+root -INFO - Mean::642.0
+root -INFO - newCasesMedian::642.0
+root -INFO - newCasesMode::ModeResult(mode=array([642]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::642.0
+root -INFO - newDeathsTomorrow::72.0
+root -INFO - newRecoveredTomorrow::1592.0
+root -INFO - Mean::888.0
+root -INFO - newCasesMedian::888.0
+root -INFO - newCasesMode::ModeResult(mode=array([888]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::888.0
+root -INFO - newDeathsTomorrow::10.0
+root -INFO - newRecoveredTomorrow::742.0
+root -INFO - Mean::888.0
+root -INFO - newCasesMedian::888.0
+root -INFO - newCasesMode::ModeResult(mode=array([888]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::888.0
+root -INFO - newDeathsTomorrow::10.0
+root -INFO - newRecoveredTomorrow::742.0
+root -INFO - Mean::2106.0
+root -INFO - newCasesMedian::2106.0
+root -INFO - newCasesMode::ModeResult(mode=array([2106]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2106.0
+root -INFO - newDeathsTomorrow::42.0
+root -INFO - newRecoveredTomorrow::1877.0
+root -INFO - Mean::2197.0
+root -INFO - newCasesMedian::2197.0
+root -INFO - newCasesMode::ModeResult(mode=array([2197]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2197.0
+root -INFO - newDeathsTomorrow::34.0
+root -INFO - newRecoveredTomorrow::1946.0
+root -INFO - Mean::1792.0
+root -INFO - newCasesMedian::1792.0
+root -INFO - newCasesMode::ModeResult(mode=array([1792]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1792.0
+root -INFO - newDeathsTomorrow::10.0
+root -INFO - newRecoveredTomorrow::663.0
+root -INFO - Mean::2530.0
+root -INFO - newCasesMedian::2530.0
+root -INFO - newCasesMode::ModeResult(mode=array([2530]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2530.0
+root -INFO - newDeathsTomorrow::30.0
+root -INFO - newRecoveredTomorrow::2084.0
+root -INFO - Mean::1296.0
+root -INFO - newCasesMedian::1296.0
+root -INFO - newCasesMode::ModeResult(mode=array([1296]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1296.0
+root -INFO - newDeathsTomorrow::18.0
+root -INFO - newRecoveredTomorrow::999.0
+root -INFO - Mean::1667.0
+root -INFO - newCasesMedian::1667.0
+root -INFO - newCasesMode::ModeResult(mode=array([1667]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1667.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::251.0
+root -INFO - Mean::1667.0
+root -INFO - newCasesMedian::1667.0
+root -INFO - newCasesMode::ModeResult(mode=array([1667]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1667.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::251.0
+root -INFO - Mean::2010.0
+root -INFO - newCasesMedian::2010.0
+root -INFO - newCasesMode::ModeResult(mode=array([2010]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2010.0
+root -INFO - newDeathsTomorrow::31.0
+root -INFO - newRecoveredTomorrow::2281.0
+root -INFO - Mean::2010.0
+root -INFO - newCasesMedian::2010.0
+root -INFO - newCasesMode::ModeResult(mode=array([2010]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2010.0
+root -INFO - newDeathsTomorrow::31.0
+root -INFO - newRecoveredTomorrow::2281.0
+root -INFO - Mean::2010.0
+root -INFO - newCasesMedian::2010.0
+root -INFO - newCasesMode::ModeResult(mode=array([2010]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2010.0
+root -INFO - newDeathsTomorrow::31.0
+root -INFO - newRecoveredTomorrow::2281.0
+root -INFO - Mean::2010.0
+root -INFO - newCasesMedian::2010.0
+root -INFO - newCasesMode::ModeResult(mode=array([2010]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2010.0
+root -INFO - newDeathsTomorrow::31.0
+root -INFO - newRecoveredTomorrow::2281.0
+root -INFO - Mean::2010.0
+root -INFO - newCasesMedian::2010.0
+root -INFO - newCasesMode::ModeResult(mode=array([2010]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2010.0
+root -INFO - newDeathsTomorrow::31.0
+root -INFO - newRecoveredTomorrow::2281.0
+root -INFO - Mean::691.0
+root -INFO - newCasesMedian::691.0
+root -INFO - newCasesMode::ModeResult(mode=array([691]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::691.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::563.0
+root -INFO - Mean::691.0
+root -INFO - newCasesMedian::691.0
+root -INFO - newCasesMode::ModeResult(mode=array([691]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::691.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::768.0
+root -INFO - Mean::691.0
+root -INFO - newCasesMedian::691.0
+root -INFO - newCasesMode::ModeResult(mode=array([691]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::691.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::768.0
+root -INFO - Mean::1138.0
+root -INFO - newCasesMedian::1138.0
+root -INFO - newCasesMode::ModeResult(mode=array([1138]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1138.0
+root -INFO - newDeathsTomorrow::9.0
+root -INFO - newRecoveredTomorrow::1615.0
+root -INFO - Mean::718.0
+root -INFO - newCasesMedian::718.0
+root -INFO - newCasesMode::ModeResult(mode=array([718]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::718.0
+root -INFO - newDeathsTomorrow::5.0
+root -INFO - newRecoveredTomorrow::267.0
+root -INFO - Mean::718.0
+root -INFO - newCasesMedian::718.0
+root -INFO - newCasesMode::ModeResult(mode=array([718]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::718.0
+root -INFO - newDeathsTomorrow::5.0
+root -INFO - newRecoveredTomorrow::267.0
+root -INFO - Mean::718.0
+root -INFO - newCasesMedian::718.0
+root -INFO - newCasesMode::ModeResult(mode=array([718]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::718.0
+root -INFO - newDeathsTomorrow::5.0
+root -INFO - newRecoveredTomorrow::267.0
+root -INFO - Mean::718.0
+root -INFO - newCasesMedian::718.0
+root -INFO - newCasesMode::ModeResult(mode=array([718]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::718.0
+root -INFO - newDeathsTomorrow::5.0
+root -INFO - newRecoveredTomorrow::267.0
+root -INFO - Mean::667.0
+root -INFO - newCasesMedian::667.0
+root -INFO - newCasesMode::ModeResult(mode=array([667]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::667.0
+root -INFO - newDeathsTomorrow::24.0
+root -INFO - newRecoveredTomorrow::671.0
+root -INFO - Mean::742.0
+root -INFO - newCasesMedian::742.0
+root -INFO - newCasesMode::ModeResult(mode=array([742]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::742.0
+root -INFO - newDeathsTomorrow::6.0
+root -INFO - newRecoveredTomorrow::671.0
+root -INFO - Mean::742.0
+root -INFO - newCasesMedian::742.0
+root -INFO - newCasesMode::ModeResult(mode=array([742]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::742.0
+root -INFO - newDeathsTomorrow::6.0
+root -INFO - newRecoveredTomorrow::671.0
+root -INFO - Mean::742.0
+root -INFO - newCasesMedian::742.0
+root -INFO - newCasesMode::ModeResult(mode=array([742]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::742.0
+root -INFO - newDeathsTomorrow::6.0
+root -INFO - newRecoveredTomorrow::671.0
+root -INFO - Mean::742.0
+root -INFO - newCasesMedian::742.0
+root -INFO - newCasesMode::ModeResult(mode=array([742]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::742.0
+root -INFO - newDeathsTomorrow::6.0
+root -INFO - newRecoveredTomorrow::671.0
+root -INFO - Mean::1263.0
+root -INFO - newCasesMedian::1263.0
+root -INFO - newCasesMode::ModeResult(mode=array([1263]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1263.0
+root -INFO - newDeathsTomorrow::19.0
+root -INFO - newRecoveredTomorrow::986.0
+root -INFO - Mean::625.0
+root -INFO - newCasesMedian::625.0
+root -INFO - newCasesMode::ModeResult(mode=array([625]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::625.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::694.0
+root -INFO - Mean::625.0
+root -INFO - newCasesMedian::625.0
+root -INFO - newCasesMode::ModeResult(mode=array([625]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::625.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::694.0
+root -INFO - Mean::625.0
+root -INFO - newCasesMedian::625.0
+root -INFO - newCasesMode::ModeResult(mode=array([625]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::625.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::694.0
+root -INFO - Mean::625.0
+root -INFO - newCasesMedian::625.0
+root -INFO - newCasesMode::ModeResult(mode=array([625]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::625.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::694.0
+root -INFO - Mean::625.0
+root -INFO - newCasesMedian::625.0
+root -INFO - newCasesMode::ModeResult(mode=array([625]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::625.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::694.0
+root -INFO - Mean::625.0
+root -INFO - newCasesMedian::625.0
+root -INFO - newCasesMode::ModeResult(mode=array([625]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::625.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::694.0
+root -INFO - Mean::625.0
+root -INFO - newCasesMedian::625.0
+root -INFO - newCasesMode::ModeResult(mode=array([625]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::625.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::694.0
+root -INFO - Mean::625.0
+root -INFO - newCasesMedian::625.0
+root -INFO - newCasesMode::ModeResult(mode=array([625]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::625.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::694.0
+root -INFO - Mean::625.0
+root -INFO - newCasesMedian::625.0
+root -INFO - newCasesMode::ModeResult(mode=array([625]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::625.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::694.0
+root -INFO - Mean::536.0
+root -INFO - newCasesMedian::536.0
+root -INFO - newCasesMode::ModeResult(mode=array([536]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::536.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::1360.0
+root -INFO - Mean::549.0
+root -INFO - newCasesMedian::549.0
+root -INFO - newCasesMode::ModeResult(mode=array([549]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::549.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::753.0
+root -INFO - Mean::688.0
+root -INFO - newCasesMedian::688.0
+root -INFO - newCasesMode::ModeResult(mode=array([688]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::688.0
+root -INFO - newDeathsTomorrow::15.0
+root -INFO - newRecoveredTomorrow::116.0
+root -INFO - Mean::314.0
+root -INFO - newCasesMedian::314.0
+root -INFO - newCasesMode::ModeResult(mode=array([314]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::314.0
+root -INFO - newDeathsTomorrow::15.0
+root -INFO - newRecoveredTomorrow::116.0
+root -INFO - Mean::314.0
+root -INFO - newCasesMedian::314.0
+root -INFO - newCasesMode::ModeResult(mode=array([314]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::314.0
+root -INFO - newDeathsTomorrow::15.0
+root -INFO - newRecoveredTomorrow::173.0
+root -INFO - Mean::314.0
+root -INFO - newCasesMedian::314.0
+root -INFO - newCasesMode::ModeResult(mode=array([314]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::314.0
+root -INFO - newDeathsTomorrow::15.0
+root -INFO - newRecoveredTomorrow::173.0
+root -INFO - Mean::314.0
+root -INFO - newCasesMedian::314.0
+root -INFO - newCasesMode::ModeResult(mode=array([314]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::314.0
+root -INFO - newDeathsTomorrow::15.0
+root -INFO - newRecoveredTomorrow::173.0
+root -INFO - Mean::314.0
+root -INFO - newCasesMedian::314.0
+root -INFO - newCasesMode::ModeResult(mode=array([314]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::314.0
+root -INFO - newDeathsTomorrow::15.0
+root -INFO - newRecoveredTomorrow::173.0
+root -INFO - Mean::314.0
+root -INFO - newCasesMedian::314.0
+root -INFO - newCasesMode::ModeResult(mode=array([314]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::314.0
+root -INFO - newDeathsTomorrow::15.0
+root -INFO - newRecoveredTomorrow::173.0
+root -INFO - Mean::314.0
+root -INFO - newCasesMedian::314.0
+root -INFO - newCasesMode::ModeResult(mode=array([314]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::314.0
+root -INFO - newDeathsTomorrow::15.0
+root -INFO - newRecoveredTomorrow::173.0
+root -INFO - Mean::243.0
+root -INFO - newCasesMedian::243.0
+root -INFO - newCasesMode::ModeResult(mode=array([243]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::243.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::226.0
+root -INFO - Mean::214.0
+root -INFO - newCasesMedian::214.0
+root -INFO - newCasesMode::ModeResult(mode=array([214]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::214.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::226.0
+root -INFO - Mean::214.0
+root -INFO - newCasesMedian::214.0
+root -INFO - newCasesMode::ModeResult(mode=array([214]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::214.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::226.0
+root -INFO - Mean::214.0
+root -INFO - newCasesMedian::214.0
+root -INFO - newCasesMode::ModeResult(mode=array([214]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::214.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::226.0
+root -INFO - Mean::214.0
+root -INFO - newCasesMedian::214.0
+root -INFO - newCasesMode::ModeResult(mode=array([214]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::214.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::226.0
+root -INFO - Mean::214.0
+root -INFO - newCasesMedian::214.0
+root -INFO - newCasesMode::ModeResult(mode=array([214]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::214.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::226.0
+root -INFO - Mean::14.0
+root -INFO - newCasesMedian::14.0
+root -INFO - newCasesMode::ModeResult(mode=array([14]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::14.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::226.0
+root -INFO - Mean::176.0
+root -INFO - newCasesMedian::176.0
+root -INFO - newCasesMode::ModeResult(mode=array([176]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::176.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::28.0
+root -INFO - Mean::176.0
+root -INFO - newCasesMedian::176.0
+root -INFO - newCasesMode::ModeResult(mode=array([176]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::176.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::28.0
+root -INFO - Mean::176.0
+root -INFO - newCasesMedian::176.0
+root -INFO - newCasesMode::ModeResult(mode=array([176]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::176.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::28.0
+root -INFO - Mean::176.0
+root -INFO - newCasesMedian::176.0
+root -INFO - newCasesMode::ModeResult(mode=array([176]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::176.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::28.0
+root -INFO - Mean::1443.0
+root -INFO - newCasesMedian::1443.0
+root -INFO - newCasesMode::ModeResult(mode=array([1443]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1443.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::171.0
+root -INFO - Mean::1443.0
+root -INFO - newCasesMedian::1443.0
+root -INFO - newCasesMode::ModeResult(mode=array([1443]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1443.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::171.0
+root -INFO - Mean::1443.0
+root -INFO - newCasesMedian::1443.0
+root -INFO - newCasesMode::ModeResult(mode=array([1443]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1443.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::171.0
+root -INFO - Mean::1443.0
+root -INFO - newCasesMedian::1443.0
+root -INFO - newCasesMode::ModeResult(mode=array([1443]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1443.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::171.0
+root -INFO - Mean::15.0
+root -INFO - newCasesMedian::15.0
+root -INFO - newCasesMode::ModeResult(mode=array([15]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::15.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::61.0
+root -INFO - Mean::15.0
+root -INFO - newCasesMedian::15.0
+root -INFO - newCasesMode::ModeResult(mode=array([15]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::15.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::61.0
+root -INFO - Mean::15.0
+root -INFO - newCasesMedian::15.0
+root -INFO - newCasesMode::ModeResult(mode=array([15]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::15.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::61.0
+root -INFO - Mean::404.0
+root -INFO - newCasesMedian::404.0
+root -INFO - newCasesMode::ModeResult(mode=array([404]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::404.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::274.0
+root -INFO - Mean::404.0
+root -INFO - newCasesMedian::404.0
+root -INFO - newCasesMode::ModeResult(mode=array([404]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::404.0
+root -INFO - newDeathsTomorrow::11.0
+root -INFO - newRecoveredTomorrow::274.0
+root -INFO - Mean::13.0
+root -INFO - newCasesMedian::13.0
+root -INFO - newCasesMode::ModeResult(mode=array([13]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::13.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::62.0
+root -INFO - Mean::13.0
+root -INFO - newCasesMedian::13.0
+root -INFO - newCasesMode::ModeResult(mode=array([13]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::13.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::62.0
+root -INFO - Mean::13.0
+root -INFO - newCasesMedian::13.0
+root -INFO - newCasesMode::ModeResult(mode=array([13]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::13.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::62.0
+root -INFO - Mean::13.0
+root -INFO - newCasesMedian::13.0
+root -INFO - newCasesMode::ModeResult(mode=array([13]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::13.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::62.0
+root -INFO - Mean::13.0
+root -INFO - newCasesMedian::13.0
+root -INFO - newCasesMode::ModeResult(mode=array([13]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::13.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::62.0
+root -INFO - Mean::1311.0
+root -INFO - newCasesMedian::1311.0
+root -INFO - newCasesMode::ModeResult(mode=array([1311]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1311.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::459.0
+root -INFO - Mean::1311.0
+root -INFO - newCasesMedian::1311.0
+root -INFO - newCasesMode::ModeResult(mode=array([1311]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1311.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::459.0
+root -INFO - Mean::1311.0
+root -INFO - newCasesMedian::1311.0
+root -INFO - newCasesMode::ModeResult(mode=array([1311]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1311.0
+root -INFO - newDeathsTomorrow::2.0
+root -INFO - newRecoveredTomorrow::459.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::18.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::12.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::12.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::12.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::12.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::12.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::12.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::12.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::12.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::12.0
+root -INFO - Mean::36.0
+root -INFO - newCasesMedian::36.0
+root -INFO - newCasesMode::ModeResult(mode=array([36]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::36.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::33.0
+root -INFO - Mean::36.0
+root -INFO - newCasesMedian::36.0
+root -INFO - newCasesMode::ModeResult(mode=array([36]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::36.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::33.0
+root -INFO - Mean::36.0
+root -INFO - newCasesMedian::36.0
+root -INFO - newCasesMode::ModeResult(mode=array([36]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::36.0
+root -INFO - newDeathsTomorrow::1.0
+root -INFO - newRecoveredTomorrow::33.0
+root -INFO - Mean::431.0
+root -INFO - newCasesMedian::431.0
+root -INFO - newCasesMode::ModeResult(mode=array([431]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::431.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::31.0
+root -INFO - Mean::431.0
+root -INFO - newCasesMedian::431.0
+root -INFO - newCasesMode::ModeResult(mode=array([431]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::431.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::31.0
+root -INFO - Mean::431.0
+root -INFO - newCasesMedian::431.0
+root -INFO - newCasesMode::ModeResult(mode=array([431]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::431.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::31.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::5.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::5.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::5.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::5.0
+root -INFO - Mean::21.0
+root -INFO - newCasesMedian::21.0
+root -INFO - newCasesMode::ModeResult(mode=array([21]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::21.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::5.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::7.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::7.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::7.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::7.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::7.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::7.0
+root -INFO - Mean::8.0
+root -INFO - newCasesMedian::8.0
+root -INFO - newCasesMode::ModeResult(mode=array([8]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::8.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::7.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::31.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::31.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::31.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::31.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::31.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::31.0
+root -INFO - Mean::9.0
+root -INFO - newCasesMedian::9.0
+root -INFO - newCasesMode::ModeResult(mode=array([9]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::9.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::15.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::17.0
+root -INFO - Mean::84.0
+root -INFO - newCasesMedian::84.0
+root -INFO - newCasesMode::ModeResult(mode=array([84]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::84.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::32.0
+root -INFO - Mean::84.0
+root -INFO - newCasesMedian::84.0
+root -INFO - newCasesMode::ModeResult(mode=array([84]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::84.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::32.0
+root -INFO - Mean::84.0
+root -INFO - newCasesMedian::84.0
+root -INFO - newCasesMode::ModeResult(mode=array([84]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::84.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::32.0
+root -INFO - Mean::2.0
+root -INFO - newCasesMedian::2.0
+root -INFO - newCasesMode::ModeResult(mode=array([2]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::5.0
+root -INFO - newCasesMedian::5.0
+root -INFO - newCasesMode::ModeResult(mode=array([5]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::5.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::2.0
+root -INFO - Mean::5.0
+root -INFO - newCasesMedian::5.0
+root -INFO - newCasesMode::ModeResult(mode=array([5]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::5.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::2.0
+root -INFO - Mean::5.0
+root -INFO - newCasesMedian::5.0
+root -INFO - newCasesMode::ModeResult(mode=array([5]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::5.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::2.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::2.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::2.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::2.0
+root -INFO - Mean::1.0
+root -INFO - newCasesMedian::1.0
+root -INFO - newCasesMode::ModeResult(mode=array([1]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::1.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::2.0
+root -INFO - Mean::2.0
+root -INFO - newCasesMedian::2.0
+root -INFO - newCasesMode::ModeResult(mode=array([2]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::2.0
+root -INFO - newCasesMedian::2.0
+root -INFO - newCasesMode::ModeResult(mode=array([2]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::2.0
+root -INFO - newCasesMedian::2.0
+root -INFO - newCasesMode::ModeResult(mode=array([2]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::2.0
+root -INFO - newCasesMedian::2.0
+root -INFO - newCasesMode::ModeResult(mode=array([2]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::2.0
+root -INFO - newCasesMedian::2.0
+root -INFO - newCasesMode::ModeResult(mode=array([2]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::2.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::3.0
+root -INFO - newCasesMedian::3.0
+root -INFO - newCasesMode::ModeResult(mode=array([3]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::4.0
+root -INFO - Mean::10.0
+root -INFO - newCasesMedian::10.0
+root -INFO - newCasesMode::ModeResult(mode=array([10]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::10.0
+root -INFO - newDeathsTomorrow::4.0
+root -INFO - newRecoveredTomorrow::14.0
+root -INFO - Mean::3835.0
+root -INFO - newCasesMedian::3835.0
+root -INFO - newCasesMode::ModeResult(mode=array([3835]), count=array([5]))
+root -INFO - newCasesStd::0.0
+root -INFO - newCasesTomorrow::3835.0
+root -INFO - newDeathsTomorrow::168.0
+root -INFO - newRecoveredTomorrow::3717.0

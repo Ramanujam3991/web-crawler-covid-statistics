@@ -2,6 +2,11 @@ import pymongo
 from datetime import date
 import numpy as np
 from scipy import stats
+import logging
+
+logging.basicConfig(filename='app.log', level=logging.INFO, filemode='w', format='%(name)s -%(levelname)s - %(message)s')
+logging.info('This is Pymongo integration')
+
 
 DB_URL = "mongodb+srv://dev:dev@cluster0.73vby.mongodb.net/sampleDB?retryWrites=true&w=majority"
 DB_NAME = "sampleDB"
@@ -62,7 +67,7 @@ def forecast_logic():
     row4=collection_4th_day.find()
     row5=collection_5th_day.find()
     data_frame = np.array([[row1],[row2],[row3],[row4],[row5]])# 2D array
-    print('Forecast Logic:::')
+    print('Calculating Forecast Logic:::')
     for doc in row1:
         countries.append(doc.get('Country,Other'))
     # for i in range(len(data_frame)):
@@ -82,28 +87,29 @@ def forecast_logic():
         #Algorithm for calculating new cases on future date using MI and sciPy
 
         #New Cases
-        if(str(d1.get('NewCases'))!= 'nan' and '+' in d1.get('NewCases')):
+        if(str(d1.get('NewCases'))!= 'nan' and '+' in str(d1.get('NewCases'))):
             NewCasesLst.append(int(str(d1.get('NewCases')).replace('+','').replace(',','')))
-        if (str(d2.get('NewCases')) != 'nan' and '+' in d2.get('NewCases')):
+        if (str(d2.get('NewCases')) != 'nan' and '+' in str(d2.get('NewCases'))):
             NewCasesLst.append(int(str(d2.get('NewCases')).replace('+','').replace(',','')))
-        if (str(d3.get('NewCases')) != 'nan' and '+' in d3.get('NewCases')):
+        if (str(d3.get('NewCases')) != 'nan' and '+' in str(d3.get('NewCases'))):
             NewCasesLst.append(int(str(d3.get('NewCases')).replace('+','').replace(',','')))
-        if (str(d4.get('NewCases')) != 'nan' and '+' in d4.get('NewCases')):
+        if (str(d4.get('NewCases')) != 'nan' and '+' in str(d4.get('NewCases'))):
             NewCasesLst.append(int(str(d4.get('NewCases')).replace('+','').replace(',','')))
-        if (str(d5.get('NewCases')) != 'nan' and '+' in d5.get('NewCases')):
+        if (str(d5.get('NewCases')) != 'nan' and '+' in str(d5.get('NewCases'))):
             NewCasesLst.append(int(str(d5.get('NewCases')).replace('+','').replace(',','')))
-        #Calculate the mean
-        newCasesMean = np.mean(NewCasesLst)
-        # Calculate the median
-        newCasesMedian = np.median(NewCasesLst)
-        # Calculate the mode
-        newCasesMode = stats.mode(NewCasesLst)
-        # Calculate the Standard deviation
-        newCasesStd = np.std(NewCasesLst)
-        print('Mean::',newCasesMean)
-        print('newCasesMedian::', newCasesMedian)
-        print('newCasesMode::', newCasesMode)
-        print('newCasesStd::', newCasesStd)
+        if len(NewCasesLst) != 0:
+            #Calculate the mean
+            newCasesMean = np.mean(NewCasesLst)
+            # Calculate the median
+            newCasesMedian = np.median(NewCasesLst)
+            # Calculate the mode
+            newCasesMode = stats.mode(NewCasesLst)
+            # Calculate the Standard deviation
+            newCasesStd = np.std(NewCasesLst)
+        logging.info('Mean::'+str(newCasesMean))
+        logging.info('newCasesMedian::'+str(newCasesMedian))
+        logging.info('newCasesMode::'+ str(newCasesMode))
+        logging.info('newCasesStd::'+ str(newCasesStd))
         newCasesTomorrow = 0
         #Algorithm logic
         #if standard deviation is less than one, then take the mean.
@@ -115,28 +121,29 @@ def forecast_logic():
                 newCasesTomorrow = newCasesMedian+newCasesStd
             else:
                 newCasesTomorrow = np.mean([newCasesMedian,newCasesMode[0][0]])+newCasesStd
-        print('newCasesTomorrow::',newCasesTomorrow)
+        logging.info('newCasesTomorrow::'+str(newCasesTomorrow))
 
 
         # New Deaths
-        if (str(d1.get('NewDeaths')) != 'nan' and '+' in d1.get('NewDeaths')):
+        if (str(d1.get('NewDeaths')) != 'nan' and '+' in str(d1.get('NewDeaths'))):
             NewDeathsLst.append(int(str(d1.get('NewDeaths')).replace('+', '').replace(',', '')))
-        if (str(d2.get('NewDeaths')) != 'nan' and '+' in d2.get('NewDeaths')):
+        if (str(d2.get('NewDeaths')) != 'nan' and '+' in str(d2.get('NewDeaths'))):
             NewDeathsLst.append(int(str(d2.get('NewDeaths')).replace('+', '').replace(',', '')))
-        if (str(d3.get('NewDeaths')) != 'nan' and '+' in d3.get('NewDeaths')):
+        if (str(d3.get('NewDeaths')) != 'nan' and '+' in str(d3.get('NewDeaths'))):
             NewDeathsLst.append(int(str(d3.get('NewDeaths')).replace('+', '').replace(',', '')))
-        if (str(d4.get('NewDeaths')) != 'nan' and '+' in d4.get('NewDeaths')):
+        if (str(d4.get('NewDeaths')) != 'nan' and '+' in str(d4.get('NewDeaths'))):
             NewDeathsLst.append(int(str(d4.get('NewDeaths')).replace('+', '').replace(',', '')))
-        if (str(d5.get('NewDeaths')) != 'nan' and '+' in d5.get('NewDeaths')):
+        if (str(d5.get('NewDeaths')) != 'nan' and '+' in str(d5.get('NewDeaths'))):
             NewDeathsLst.append(int(str(d5.get('NewDeaths')).replace('+', '').replace(',', '')))
         # Calculate the mean
-        newDeathsMean = np.mean(NewDeathsLst)
-        # Calculate the median
-        newDeathsMedian = np.median(NewDeathsLst)
-        # Calculate the mode
-        newDeathsMode = stats.mode(NewDeathsLst)
-        # Calculate the Standard deviation
-        newDeathsStd = np.std(NewDeathsLst)
+        if len(NewDeathsLst) != 0:
+            newDeathsMean = np.mean(NewDeathsLst)
+            # Calculate the median
+            newDeathsMedian = np.median(NewDeathsLst)
+            # Calculate the mode
+            newDeathsMode = stats.mode(NewDeathsLst)
+            # Calculate the Standard deviation
+            newDeathsStd = np.std(NewDeathsLst)
 
         newDeathsTomorrow = 0
         # Algorithm logic
@@ -149,28 +156,29 @@ def forecast_logic():
                 newDeathsTomorrow = newDeathsMedian + newDeathsStd
             else:
                 newDeathsTomorrow = np.mean([newDeathsMedian, newDeathsMode[0][0]]) + newDeathsStd
-        print('newDeathsTomorrow::', newDeathsTomorrow)
+        logging.info('newDeathsTomorrow::'+ str(newDeathsTomorrow))
 
 
         # New Recovered
-        if (str(d1.get('NewRecovered')) != 'nan' and '+' in d1.get('NewRecovered')):
+        if (str(d1.get('NewRecovered')) != 'nan' and '+' in str(d1.get('NewRecovered'))):
             NewRecoveredLst.append(int(str(d1.get('NewRecovered')).replace('+', '').replace(',', '')))
-        if (str(d2.get('NewRecovered')) != 'nan' and '+' in d2.get('NewRecovered')):
+        if (str(d2.get('NewRecovered')) != 'nan' and '+' in str(d2.get('NewRecovered'))):
             NewRecoveredLst.append(int(str(d2.get('NewRecovered')).replace('+', '').replace(',', '')))
-        if (str(d3.get('NewRecovered')) != 'nan' and '+' in d3.get('NewRecovered')):
+        if (str(d3.get('NewRecovered')) != 'nan' and '+' in str(d3.get('NewRecovered'))):
             NewRecoveredLst.append(int(str(d3.get('NewRecovered')).replace('+', '').replace(',', '')))
-        if (str(d4.get('NewRecovered')) != 'nan' and '+' in d4.get('NewRecovered')):
+        if (str(d4.get('NewRecovered')) != 'nan' and '+' in str(d4.get('NewRecovered'))):
             NewRecoveredLst.append(int(str(d4.get('NewRecovered')).replace('+', '').replace(',', '')))
-        if (str(d5.get('NewRecovered')) != 'nan' and '+' in d5.get('NewRecovered')):
+        if (str(d5.get('NewRecovered')) != 'nan' and '+' in str(d5.get('NewRecovered'))):
             NewRecoveredLst.append(int(str(d5.get('NewRecovered')).replace('+', '').replace(',', '')))
-        # Calculate the mean
-        newRecoveredMean = np.mean(NewRecoveredLst)
-        # Calculate the median
-        newRecoveredMedian = np.median(NewRecoveredLst)
-        # Calculate the mode
-        newRecoveredMode = stats.mode(NewRecoveredLst)
-        # Calculate the Standard deviation
-        newRecoveredStd = np.std(NewRecoveredLst)
+        if len(NewRecoveredLst) != 0:
+            # Calculate the mean
+            newRecoveredMean = np.mean(NewRecoveredLst)
+            # Calculate the median
+            newRecoveredMedian = np.median(NewRecoveredLst)
+            # Calculate the mode
+            newRecoveredMode = stats.mode(NewRecoveredLst)
+            # Calculate the Standard deviation
+            newRecoveredStd = np.std(NewRecoveredLst)
 
         newRecoveredTomorrow = 0
         # Algorithm logic
@@ -183,7 +191,7 @@ def forecast_logic():
                 newRecoveredTomorrow = newRecoveredMedian + newRecoveredStd
             else:
                 newRecoveredTomorrow = np.mean([newRecoveredMedian, newRecoveredMode[0][0]]) + newRecoveredStd
-        print('newRecoveredTomorrow::', newRecoveredTomorrow)
+        logging.info('newRecoveredTomorrow::'+ str(newRecoveredTomorrow))
 
         data = {'Country,Other':country,'NewCases':newCasesTomorrow,'NewDeaths':newDeathsTomorrow,'newRecoveredTomorrow':newRecoveredTomorrow}
         collection_future.insert_one(data)
